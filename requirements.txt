@@ -1,0 +1,21 @@
+# Core PDF processing library
+pdfplumber>=0.10.0
+
+# Standard library dependencies (these are built-in but listed for clarity)
+# json - built-in
+# os - built-in  
+# re - built-in
+# datetime - built-in
+# typing - built-in (Python 3.5+)
+# pathlib - built-in (Python 3.4+)
+# argparse - built-in
+# glob - built-in
+
+# Optional: For enhanced performance and compatibility
+# Pillow>=9.0.0  # Image processing (used by pdfplumber for image handling)
+# cryptography>=3.0.0  # For encrypted PDFs (optional)
+
+# Development dependencies (optional)
+# pytest>=7.0.0  # For testing
+# black>=22.0.0  # Code formatting
+# flake8>=4.0.0  # Linting
